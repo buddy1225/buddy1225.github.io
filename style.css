@@ -1,0 +1,37 @@
+body{
+			background-color:Gray;
+			psdding: 20px;
+		}
+		header{
+			text-align:center;
+			font-size:100px;
+			color:white;	
+		}	
+		span{
+			padding:0px;
+			font-size:20px;
+			color: white;
+		}
+		div{
+			margin:10px;
+			padding:70px;
+		}
+		.pic-sub{
+			display:inline-block;
+			text-align:center;
+			padding:70px;
+			margin:0px;
+		}
+		a {
+			text-decoration: none;
+			color: white;
+			padding: 90px;
+			font-size: 15px;
+		}
+		footer{
+			font-family:New Time Roman;
+			Font-size: 15px;
+			Color: Black;
+			text-align: center;
+		}
+		
